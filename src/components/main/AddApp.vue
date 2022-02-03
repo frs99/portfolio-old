@@ -5,7 +5,7 @@
       name="FrsCodes"
       state="alive"
       linkApp="https://frscodes.github.io/"
-      linkBehance="unavailable"
+      linkBehance="https://www.behance.net/gallery/133362257/FrsCodes-brand-identity"
       linkGithub="https://github.com/frscodes/frscodes.github.io"
     />
 
@@ -31,7 +31,7 @@
       img="img/apps.jpg"
       name="Google Play app gallery"
       state="dead"
-      linkApp="unavailable"
+      linkApp="https://frscodes.github.io/GooglePlay-EN/"
       linkBehance="unavailable"
       linkGithub="unavailable"
     />
