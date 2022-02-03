@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+@media (min-width:2000px) {
+    header{
+        height:1000px;
+    }
+}
+
+@media (max-width:990px){
+    /* HEADER */
+    header .hdr-info{
+        width:100%;
+    }
+    header .hdr-info .hdr-hi h1{
+        font-size:100px;
+    }
+    header .hdr-info .hdr-btn{
+      width: 80%;
+    }
+    header .hdr-info .hdr-btn a{
+        display: block;
+        margin:50px 0;
+        text-align: center;
+    }
+    /* MAIN */
+    /* Special app */
+    main .main-spcl-app{
+        width:90%;
+        max-width:350px;
+        min-width:80%;
+    }
+    main .main-title h1{
+        font-size:70px;
+    }
+    main .main-spcl-app .spcl-app-cntr{
+        display: block;
+        width: 272px;
+        height:625px;
+        padding: 35px;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-icon-app{
+        margin:0 auto;
+        width:200px;
+        height:200px;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-info-app{
+        margin:0;
+        height: 327px;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-icon-app img{
+        width:200px;
+        height:200px;
+    }
+    main .main-spcl-app .spcl-app-p{
+        width:272px;
+        margin:0 auto;
+        margin-bottom:30px;
+        font-size:25px;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-info-app h4 {
+        font-size:30px;
+        margin-top:25px;
+        margin-bottom: 14px;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-info-app p{
+        height:auto;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-info-app p{
+        margin: 25px 0;
+        width:100%;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    main .main-spcl-app .spcl-app-cntr .spcl-info-app a{
+        width: 100%;
+        text-align: center;
+    }
+    .card{
+      display: block;
+    }
+    .card-info{
+      margin:50px auto;
+    }
+    /* FOOTER */
+    footer .footer{
+        font-size:14px;
+    }
+}
+@media (max-width:480px){
+
+    /* MAIN */
+    /* apps list */
+    main .main-listapps{
+        width: 90%;
+    }
+    footer .footer{
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+        padding: 20px 0;
+    }
+    footer .footer .copyright{
+        font-size:14px;
+    }
+    footer .footer nav{
+        margin-top:15px;
+        font-size: 20px;
+        height: auto;
+    }
+    footer .footer nav a{margin:0 8px;}
+}
+@media (max-width:394px){
+    main .main-listapps .listapps-cntr .listapps-info span{
+        margin-top:4px;
+    }
+}
+
+/* THANKS:
+             https://mediag.com/blog/popular-screen-resolutions-designing-for-all/ 
+             http://whatismyscreenresolution.net/multi-screen-test
+*/
