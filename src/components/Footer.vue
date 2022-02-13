@@ -1,7 +1,7 @@
 <template>
   <footer>
     <section class="footer">
-      <p class="copyright">All Rights Reserved - FrsCodes 2021 ©</p>
+      <p class="copyright">All Rights Reserved - FrsCodes 2022 ©</p>
       <nav>
           <a class="social" href="https://frscodes.github.io/">
             <i class="fas fa-home" aria-hidden="true"></i>
