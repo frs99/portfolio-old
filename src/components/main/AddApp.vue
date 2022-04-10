@@ -21,7 +21,7 @@
     <App 
       img="img/dalil.jpg"
       name="Dalilmutabarie"
-      state="dead"
+      state="closed"
       linkApp="https://frscodes.github.io/dalilmutabarie/"
       linkBehance="https://www.behance.net/gallery/112138003/dalilmutabarie"
       linkGithub="https://github.com/frscodes/dalilmutabarie"
@@ -30,7 +30,7 @@
     <App 
       img="img/apps.jpg"
       name="Google Play app gallery"
-      state="dead"
+      state="closed"
       linkApp="https://frscodes.github.io/GooglePlay-EN/"
       linkBehance="unavailable"
       linkGithub="unavailable"
@@ -39,7 +39,7 @@
     <App 
       img="img/acila.jpg"
       name="Acila accessories"
-      state="soon"
+      state="closed"
       linkApp="unavailable"
       linkBehance="https://www.behance.net/gallery/126639795/Acila-for-accessories-brand"
       linkGithub="unavailable"
@@ -57,6 +57,15 @@
     <App 
       img="img/ubexpay.png"
       name="UBEXPay"
+      state="closed"
+      linkApp="unavailable"
+      linkBehance="unavailable"
+      linkGithub="unavailable"
+    />
+
+    <App 
+      img="img/Gaith.jpg"
+      name="Gaith"
       state="soon"
       linkApp="unavailable"
       linkBehance="unavailable"

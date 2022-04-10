@@ -18,7 +18,7 @@
           <a class="social" href="https://www.facebook.com/frscodes">
             <i class="fab fa-facebook-square" aria-hidden="true"></i>
           </a>
-          <a class="social" href="https://www.instagram.com/frs_codes/">
+          <a class="social" href="https://www.instagram.com/frs.codes/">
             <i class="fab fa-instagram-square" aria-hidden="true"></i>
           </a>
       </nav>
